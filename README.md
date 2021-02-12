@@ -1,1 +1,1 @@
-Aqui añadiré todo el código y demás del sistema de recomendación, de momento está vacío, cuando vaya teniendo cosas y vayan funcionando lo introduciré en el repositorio
+Para ejecutar el programa basta con cambiar en el código las direcciones de la carpeta en las que se encuetran las imágenes que usa la aplicación, además del numero de puerto de la base de datos.
